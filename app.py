@@ -73,7 +73,7 @@ def like():
     return jsonify({
         
         
-       
+        "credits":"INSANE REGEDIT",
         "likes_added": after_like - before_like,
         "likes_before": before_like,
         "likes_after": after_like,
