@@ -128,7 +128,7 @@ def like():
         likes_added = after_like - before_like
         
         return jsonify({
-            "credits": "great.thug4ff.com",
+            "credits": "INSANE REGEDITS",
             "likes_added": likes_added,
             "likes_before": before_like,
             "likes_after": after_like,
