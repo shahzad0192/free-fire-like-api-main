@@ -4,14 +4,14 @@ URLS_LIKE = {"IND":"https://client.ind.freefiremobile.com/LikeProfile",
             "BR":"https://client.us.freefiremobile.com/LikeProfile",
             "US":"https://client.us.freefiremobile.com/LikeProfile",
             "SAC":"https://client.us.freefiremobile.com/LikeProfile",
-            "PK":"https://client.us.freefiremobile.com/LikeProfile"}
+            "PK":"https://clientbp.ggblueshark.com/LikeProfile"}
 
 
 URLS_INFO = {"IND":"https://client.ind.freefiremobile.com/GetPlayerPersonalShow",
             "BR":"https://client.us.freefiremobile.com/GetPlayerPersonalShow",
             "US":"https://client.us.freefiremobile.com/GetPlayerPersonalShow",
             "SAC":"https://client.us.freefiremobile.com/GetPlayerPersonalShow",
-            "PK":"https://client.us.freefiremobile.com/GetPlayerPersonalShow"}
+            "PK":"https://clientbp.ggblueshark.com/GetPlayerPersonalShow"}
             
 
 
